@@ -1,4 +1,4 @@
 # WebIDE-SRC
 A filehost that acts like a FTP or CDN containing WebIDE Source.
 
-WebIDE online will point to this to retive its assets.
+WebIDE online will use this to retive its assets.
