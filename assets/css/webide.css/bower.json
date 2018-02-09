@@ -1,0 +1,20 @@
+{
+  "name": "WebIDE CSS",
+  "version": "1.0.0",
+  "homepage": "https://github.com/josephworks/WebIDE/tree/master/assets/css/webide.css/",
+  "authors": [
+    "Joseph Robinson <smartech56@gmail.com>"
+  ],
+  "description": "CSS SRC used in WebIDE",
+  "main": "src/WebIDE.css",
+  "keywords": [
+    "CSS",
+    "SRC",
+    "WebIDE",
+    "Dependency",
+  ],
+  "license": "None",
+  "ignore": [
+    "fileordirhere",
+  ]
+}
