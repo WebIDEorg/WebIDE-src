@@ -818,7 +818,6 @@ select:not([multiple]):not([size]) {
   background-color: #39444a;
   -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none;
 }
 
 select:not([multiple]):not([size])[readonly] {
@@ -1790,7 +1789,8 @@ table.striped tr:nth-of-type(2n) > td {
   transform: scaleY(0);
   -webkit-transform-origin: top;
   transform-origin: top;
-  transition: -webkit-transform 0.3s, transform 0.3s;
+  transition: -webkit-transform 0.3s,
+ transform 0.3s;
 }
 
 .tabs > label:not(:first-of-type) {
@@ -2045,10 +2045,8 @@ mark.inline-block {
 */
 progress {
   display: block;
-  vertical-align: baseline;
   -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none;
   height: 0.625rem;
   width: 90%;
   width: calc(100% - 1rem);
