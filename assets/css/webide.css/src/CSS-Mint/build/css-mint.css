@@ -460,7 +460,6 @@ header.fixed {
 .logo {
   text-decoration: none;
   display: inline-block;
-  float: left;
   padding: 10px 20px;
 }
 
