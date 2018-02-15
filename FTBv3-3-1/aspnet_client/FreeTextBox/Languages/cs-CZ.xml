@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+ <!-- General -->
+ <resource name = "Yes">Ano</resource>
+ <resource name = "No">Ne</resource>
+ <resource name = "0">0</resource>
+ <resource name = "1">1</resource>
+ <resource name = "2">2</resource>
+ <resource name = "3">3</resource>
+ <resource name = "4">4</resource>
+ <resource name = "5">5</resource>
+ <resource name = "6">6</resource>
+ <resource name = "7">7</resource>
+ <resource name = "8">8</resource>
+ <resource name = "9">9</resource>
+ 
+ <!-- Main FTB Stuff -->
+ <resource name = "DesignModeTab">Design</resource>
+ <resource name = "HtmlModeTab">HTML</resource>
+ 
+ <!-- Buttons -->
+ <resource name = "Bold">Tučně</resource>
+ <resource name = "BulletedList">Odrážky</resource>
+ <resource name = "Copy">Kopírovat</resource>
+ <resource name = "CreateLink">Hypertextový odkaz</resource>
+ <resource name = "Cut">Vyjmout</resource>
+ <resource name = "Delete">Odstranit</resource>
+ <resource name = "Indent">Zvětšit odsazení</resource>
+ <resource name = "InsertDate">Vložit datum</resource>
+ <resource name = "InsertImage">Vložit obrázek</resource>
+ <resource name = "InsertRule">Vodorovná čára</resource>
+ <resource name = "InsertTime">Vložit čas</resource>
+ <resource name = "Italic">Kurzíva</resource> 
+ <resource name = "JustifyRight">Zarovnat vpravo</resource> 
+ <resource name = "JustifyCenter">Zarovnat na střed</resource> 
+ <resource name = "JustifyFull">Zarovnat do bloku</resource> 
+ <resource name = "JustifyLeft">Zarovnat vlevo</resource>
+ <resource name = "NumberedList">Číslování</resource> 
+ <resource name = "Outdent">Zmenšit odsazení</resource> 
+ <resource name = "Paste">Vložit</resource> 
+ <resource name = "Print">Tisk</resource> 
+ <resource name = "Redo">Znovu</resource> 
+ <resource name = "RemoveFormat">Odstranit formátování</resource> 
+ <resource name = "Save">Uložit</resource>
+ <resource name = "StrikeThrough">Přeškrtnout</resource>
+ <resource name = "SuperScript">Horní index</resource>
+ <resource name = "SubScript">Dolní index</resource> 
+ <resource name = "Underline">Podtrhnout</resource> 
+ <resource name = "Undo">Zpět</resource>
+ <resource name = "Unlink">Odstranit hypertextový odkaz</resource>
+
+ <!-- Table Functions -->
+ <resource name = "InsertTable">Vložit tabulku</resource>
+ <resource name = "InsertTableRowAfter">Vložit řádek nad</resource>
+ <resource name = "InsertTableRowBefore">Vložit řádek pod</resource>
+ <resource name = "InsertTableColumnAfter">Vložit sloupec pod</resource>
+ <resource name = "InsertTableColumnBefore">Vložit sloupec nad</resource>
+ <resource name = "DeleteTableColumn">Odstranit sloupec</resource>
+ <resource name = "DeleteTableRow">Odstranit řádek</resource>
+ 
+
+ <!-- DropDownLists -->
+ <resource name = "FontForeColorsMenu">Barva písma</resource>
+ <resource name = "FontBackColorsMenu">Zvýraznění</resource>
+ <resource name = "FontSizesMenu">Velikost písma</resource>
+ <resource name = "ParagraphMenu">Styl odstavce</resource> 
+ <resource name = "FontFacesMenu">Písmo</resource>
+ <resource name = "InsertHtmlMenu">Vložit HTML</resource>
+ <resource name = "SymbolsMenu">Symbol</resource>
+ <resource name = "StylesMenu">Styl</resource>
+
+ <!-- DropDownList Items -->
+ <resource name = "ParagraphMenu_Normal">Normální</resource>
+ <resource name = "ParagraphMenu_Heading1">Nadpis 1</resource>
+ <resource name = "ParagraphMenu_Heading2">Nadpis 2</resource>
+ <resource name = "ParagraphMenu_Heading3">Nadpis 3</resource>
+ <resource name = "ParagraphMenu_Heading4">Nadpis 4</resource>
+ <resource name = "ParagraphMenu_Heading5">Nadpis 5</resource>
+ <resource name = "ParagraphMenu_Heading6">Nadpis 6</resource>
+ <resource name = "ParagraphMenu_Formatted">Naformátováno</resource>
+ <resource name = "ParagraphMenu_Address">Adresa</resource>
+</root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbar>
+    <item id="back"     type="button" img="left_arrow.png"/>
+	<item id="fwd"      type="button" img="right_arrow.png"/>
+    <item id="reload"   type="button" img="reload.png"/>
+    <item id="home"     type="button" img="home.png" />
+    <item id="add"      type="button" img="add.png"    text="Add"/>
+	<item id="edit"     type="button" img="edit.png"   text="Edit"/>
+    <item id="delete"   type="button" img="delete.png" text="Delete"/>
+</toolbar>

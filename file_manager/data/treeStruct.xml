@@ -1,0 +1,12 @@
+<tree id="0">
+    <item id="books" text="Books" open="1">
+        <item id="romantic" text="Romantic" im0="folderClosed.gif"></item>
+        <item id="mystic"   text="Mystic"   im0="folderClosed.gif"></item>
+        <item id="fun"      text="Comedy"   im0="folderClosed.gif"></item>
+    </item>
+    <item id="films" text="Movie" open="1">
+        <item id="comedy"   text="Comedy"   im0="folderClosed.gif"></item>
+        <item id="action"   text="Action"   im0="folderClosed.gif"></item>
+    </item>
+    <item id="music" text="Music" im0="folderClosed.gif"></item>
+</tree>
