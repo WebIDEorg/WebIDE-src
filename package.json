@@ -1,0 +1,31 @@
+{
+  "name": "webide-src",
+  "version": "1.0.0",
+  "description": "Dependencies for WebIDE",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebIDEorg/WebIDE-src.git"
+  },
+  "author": "Joseph Robinson",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/WebIDEorg/WebIDE-src/issues"
+  },
+  "homepage": "https://github.com/WebIDEorg/WebIDE-src#readme",
+  "dependencies": {
+    "ace": "^1.3.0",
+    "ckeditor": "^4.12.1",
+    "codemirror": "^5.51.0",
+    "jstree": "^3.3.8",
+    "monaco-editor": "^0.19.3",
+    "npm": "^6.13.6",
+    "openwysiwyg": "^1.4.8",
+    "particles.js": "^2.0.0",
+    "tinymce": "^5.1.5",
+    "winstrap": "^0.5.12"
+  }
+}
